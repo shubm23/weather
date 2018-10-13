@@ -1,0 +1,13 @@
+{
+  "name": "weather-app",
+  "version": "1.1.0",
+  "description": "Weather fetching App",
+  "author": "Shubham Mandal",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^25.0.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
+  }
+}
